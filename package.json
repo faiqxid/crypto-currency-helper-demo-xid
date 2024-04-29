@@ -1,0 +1,23 @@
+{
+  "name": "crypto-currency-helper-demo-xid",
+  "version": "1.0.0",
+  "description": "Demo for crypto-currency-helper package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "crypto",
+    "currency",
+    "helper"
+  ],
+  "author": "faiqxid",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/faiqxid/crypto-currency-helper-demo-xid.git"
+  },
+  "dependencies": {
+    "crypto-currency-helper": "^1.0.3"
+  }
+}
